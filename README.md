@@ -22,7 +22,7 @@
 ### grunt / gulp
 > build担当
 > 
-> gulpのほうは可読性が悪いのでgruntでいく。buildスピードは対して変わらないことが判明。
+> gulpのほうは可読性が悪いのでgruntでいく。buildスピードは大して変わらないことが判明。
 
 ### webpack
 > js/html/cssのモジュール化
