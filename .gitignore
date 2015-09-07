@@ -1,0 +1,6 @@
+/node_modules
+/.grunt
+/.sass-cache
+/src/class
+/npm-debug*
+/bower_components

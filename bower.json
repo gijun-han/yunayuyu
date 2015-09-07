@@ -1,0 +1,18 @@
+{
+  "name": "yunayuyu",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gijun-han/yunayuyu",
+  "authors": [
+    "gijun han <h.gijun2@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "vue": "~0.12.10"
+  }
+}
